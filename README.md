@@ -1,2 +1,3 @@
-# SimpleIntroductionPage
-a Simple Bootstrap Page with Youtube Background
+# Simple Introduction Page
+
+Single Bootstrap Page with Youtube Background
